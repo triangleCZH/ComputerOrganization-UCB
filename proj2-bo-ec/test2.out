@@ -1,0 +1,13 @@
+.text
+26300fff
+26300000
+0232001a
+00008010
+0211082a
+501ffffa
+55fffff9
+
+.symbol
+0	label1
+
+.relocation

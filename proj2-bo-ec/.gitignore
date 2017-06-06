@@ -1,0 +1,4 @@
+*.o 
+assembler
+test-assembler
+assembler.dSYM

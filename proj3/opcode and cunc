@@ -1,0 +1,27 @@
+add func 32
+addu func 33
+and func 36
+jr func 8
+jump and link register func 9
+or func 37
+slt func 42
+sltu func 43
+sll func 0
+sra func 3
+srl func 2
+sub func 34
+subu func 35
+addi op 8
+addiu op 9
+andi op 12
+beq op 4
+bne op 5
+bov op 6
+j op 2
+jal op3
+lui op 15
+lw op 35
+ori op 13
+slti op 10
+sltiu op 11
+sw op 43

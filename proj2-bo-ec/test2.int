@@ -1,0 +1,7 @@
+addiu $s0 $s1 0xFFF
+addiu $s0 $s1 0
+div $s1 $s2
+mfhi $s0
+slt $at $s0 $s1
+beq $at $0 label1
+bne $s0 $0 label1
